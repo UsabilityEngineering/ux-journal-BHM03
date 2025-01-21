@@ -1,6 +1,6 @@
-# UX Portfolio
+# Bryant's Journey
 
-About me...
+My name is Bryant Hernandez and I'm interested in Usability Engineering because I want to learn the design process into making an app.
 
 ## UX Team Project
 
