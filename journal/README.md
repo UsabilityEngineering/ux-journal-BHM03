@@ -10,4 +10,10 @@ March 14, 2024
   
 &nbsp;&nbsp;&nbsp;&nbsp;Finally, the app correctly recognized each item’s protein, kcal, fat, and carbs. All information was stored within the “Foods” section (3). This app made it incredibly easy to track my macros and is simple enough for any user to navigate through the UI.
 
+![Homepage (1)](image0.png)
+
+![Barcode Scanner (2)](image1.png)
+
+![Food Section (3)](image2.png)
+
 
